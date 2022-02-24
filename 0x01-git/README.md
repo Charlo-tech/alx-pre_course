@@ -1,0 +1,1 @@
+This is a directory within the alx-pre_course repository.
